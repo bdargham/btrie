@@ -2,6 +2,7 @@
 An in-memory binary Trie implementation (also called radix or prefix trees)
 
 GoDoc Documentation: https://godoc.org/github.com/bdargham/btrie
+
 Test Coverage: [![Coverage Status](https://coveralls.io/repos/github/bdargham/btrie/badge.svg?branch=master)](https://coveralls.io/github/bdargham/btrie?branch=master)
 
 ## Simple usage example
