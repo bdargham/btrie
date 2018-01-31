@@ -1,9 +1,7 @@
 # btrie
+[![](https://godoc.org/github.com/nathany/looper?status.svg)](http://godoc.org/github.com/bdargham/btrie) [![Build Status](https://travis-ci.org/bdargham/btrie.svg?branch=master)](https://travis-ci.org/bdargham/btrie) [![Coverage Status](https://coveralls.io/repos/github/bdargham/btrie/badge.svg?branch=master)](https://coveralls.io/github/bdargham/btrie?branch=master)
+
 An in-memory binary Trie implementation (also called radix or prefix trees)
-
-GoDoc Documentation: https://godoc.org/github.com/bdargham/btrie
-
-Test Coverage: [![Coverage Status](https://coveralls.io/repos/github/bdargham/btrie/badge.svg?branch=master)](https://coveralls.io/github/bdargham/btrie?branch=master)
 
 ## Simple usage example
 
